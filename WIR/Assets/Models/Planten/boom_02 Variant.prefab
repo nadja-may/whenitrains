@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 260162136314125670, guid: 23dc35ac0f5ddf44f93e9103bbace77d,
         type: 3}
       propertyPath: m_Name
-      value: boom_02
+      value: boom_02 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 3875085577759256437, guid: 23dc35ac0f5ddf44f93e9103bbace77d,
         type: 3}
